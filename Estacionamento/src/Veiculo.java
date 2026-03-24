@@ -12,10 +12,6 @@ public class Veiculo {
         this.proprietario = proprietario;
     }
 
-    public void entrada(){
 
-
-
-    }
 
 }

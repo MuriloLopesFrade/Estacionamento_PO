@@ -1,9 +1,9 @@
 public class Proprietario {
 
     String nome;
-    String cpf;
+    long cpf;
 
-    public Proprietario(String nome,String cpf) {
+    public Proprietario(String nome,long cpf) {
         this.nome = nome;
         this.cpf = cpf;
     }
